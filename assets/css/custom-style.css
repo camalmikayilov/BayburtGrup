@@ -4,3 +4,7 @@
 .home-buttons-wrapper {
     opacity: 1 !important;
 }
+
+.w-webflow-badge {
+    display: none !important;
+}
