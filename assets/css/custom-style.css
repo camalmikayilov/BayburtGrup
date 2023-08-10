@@ -1,0 +1,10 @@
+.home-1-title.home-2-title,
+.red-h6-title,
+.banner-slider-description,
+.home-buttons-wrapper {
+    opacity: 1 !important;
+}
+
+.w-webflow-badge {
+    display: none !important;
+}
