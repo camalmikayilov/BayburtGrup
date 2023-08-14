@@ -16549,10 +16549,15 @@ blockquote {
   font-display: swap;
 }
 
-.footer-logo{
+.footer-logo {
   width: 7rem;
 }
 
-.boss-message{
+.boss-message {
   color: red;
+}
+
+.sosyal-slider a img{
+  width: 100%;
+  height: auto;
 }
