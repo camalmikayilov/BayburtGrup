@@ -7212,7 +7212,7 @@ blockquote {
 
 .image-ruc {
   width: auto;
-  height: 50px;
+  height: 65px;
   max-width: none;
 }
 
@@ -10558,11 +10558,6 @@ blockquote {
 @media screen and (min-width: 1280px) {
   h1 {
     font-size: 55px;
-  }
-
-  .section {
-    /* padding-top: 130px; */
-    /* padding-bottom: 130px; */
   }
 
   .section.banner-our-team {
@@ -16557,7 +16552,12 @@ blockquote {
   color: red;
 }
 
-.sosyal-slider a img{
+.sosyal-slider a img {
   width: 100%;
   height: auto;
+}
+
+.navbar-logos img {
+  opacity: 1;
+  height: 65px;
 }
